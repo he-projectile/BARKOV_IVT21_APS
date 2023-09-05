@@ -1,0 +1,8 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/8211496/Desktop/BARKOV_IVT21_APS/Barkov_APS.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/8211496/Desktop/BARKOV_IVT21_APS/Barkov_APS.srcs/sources_1/new/ALU.sv,1693920109,systemVerilog,,C:/Users/8211496/Desktop/BARKOV_IVT21_APS/tb_miriscv_alu.sv,,alu_riscv,,,,,,,,
+C:/Users/8211496/Desktop/BARKOV_IVT21_APS/alu_opcodes_pkg.sv,1693914531,systemVerilog,C:/Users/8211496/Desktop/BARKOV_IVT21_APS/Barkov_APS.srcs/sources_1/new/ALU.sv;C:/Users/8211496/Desktop/BARKOV_IVT21_APS/tb_miriscv_alu.sv,C:/Users/8211496/Desktop/BARKOV_IVT21_APS/Barkov_APS.srcs/sources_1/new/ALU.sv,,alu_opcodes_pkg,,,,,,,,
+C:/Users/8211496/Desktop/BARKOV_IVT21_APS/tb_miriscv_alu.sv,1693918722,systemVerilog,,,,tb_miriscv_alu,,,,,,,,
